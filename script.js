@@ -8,7 +8,12 @@ lastItems.style.color = 'red';
 // const children = grandParent.querySelectorAll('.item');
 // console.log(children);
 
-const children = document.querySelector('.item');
-const parent = children.parentElement;
-console.log(parent);
+// const children = document.querySelector('.item');
+// const parent = children.parentElement;
+// console.log(parent);
+
+
+// const children = document.querySelector('.item');
+// const parent = children.closest('.h');
+// console.log(parent);
 
